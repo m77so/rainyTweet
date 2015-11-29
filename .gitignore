@@ -1,5 +1,5 @@
     /.idea/
-    /tmp/
-    /bin/
+    /tmp
+    /bin
     *.test
     *.swap
